@@ -1,0 +1,28 @@
+{
+  "name": "exercise.20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeybelousov/node.exercise.20.git"
+  },
+  "author": "Alexey Belousov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeybelousov/node.exercise.20/issues"
+  },
+  "homepage": "https://github.com/alexeybelousov/node.exercise.20#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "supertest": "^3.1.0"
+  }
+}
